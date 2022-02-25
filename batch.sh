@@ -1,0 +1,1 @@
+/home/daq/Warsaw/monitoring/batch.sh
